@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
 ![](https://img.shields.io/badge/language-Swift-orange.svg) 
+![](https://img.shields.io/badge/language-Swift-orange.svg) 
 ![](https://img.shields.io/badge/download-5.7MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
