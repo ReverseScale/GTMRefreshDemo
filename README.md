@@ -2,7 +2,7 @@
 使用 GTMRefresh 实现 Swift 下拉刷新
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg)  
-![](https://img.shields.io/badge/language-Swift--C-orange.svg) 
+![](https://img.shields.io/badge/language-swift-orange.svg) 
 ![](https://img.shields.io/badge/download-5.7MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
